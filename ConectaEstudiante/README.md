@@ -1,9 +1,9 @@
 # Conecta Estudiante - Portal de Actividades y Talleres
-**Asignatura:** Electivo Angular 22
-**Estudiante:** Kevin
+**Asignatura:** Electivo Angular 22  
+**Estudiante:** Kevin Carrasco  
 
 ## Descripción del Proyecto
-Aplicación SPA desarrollada en Angular 22 para la organización "Conecta Estudiante". Permite revisar actividades y talleres académicos, consultar datos de contacto y registrar solicitudes de inscripción.
+Aplicación SPA desarrollada en Angular para la organización "Conecta Estudiante". Permite revisar actividades y talleres académicos, consultar datos de contacto y registrar solicitudes de inscripción mediante un formulario reactivo con validaciones.
 
 ## Requisitos y Versiones
 - Angular CLI: 22.x
@@ -16,6 +16,7 @@ Aplicación SPA desarrollada en Angular 22 para la organización "Conecta Estudi
 4. Abrir en el navegador: `http://localhost:4200`
 
 ## Registro de Etapas y Commits
+
 ### Etapa 1: Estructura inicial
 - Creación del proyecto Angular Standalone con routing habilitado.
 - Generación de componentes base: Cabecera y Menu en `components/`.
@@ -31,3 +32,8 @@ Aplicación SPA desarrollada en Angular 22 para la organización "Conecta Estudi
 - Integración de los 7 campos requeridos con validación en tiempo real.
 - Feedback al usuario con mensajes de error dinámicos (`@if`, `touched`, `invalid`).
 - Manejo de envío con `markAllAsTouched()`, `console.log()` y `reset()`.
+
+### Etapa 4: Estilos CSS e Integración Final
+- Diseño e integración de estilos CSS globales en `styles.css`.
+- Prueba y verificación de compilación limpia con `ng build`.
+- Preparación final del proyecto y publicación en GitHub.
