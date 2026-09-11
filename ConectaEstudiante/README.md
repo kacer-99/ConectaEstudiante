@@ -25,3 +25,9 @@ Aplicación SPA desarrollada en Angular 22 para la organización "Conecta Estudi
 - Configuración de `app.routes.ts` para navegación dinámica.
 - Uso de `routerLink`, `routerLinkActive` y `<router-outlet>`.
 - Creación de vistas `Inicio`, `Actividades` (con interpolación y `@for`), y `Contacto`.
+
+### Etapa 3: Formulario Reactivo y Validaciones
+- Implementación de `ReactiveFormsModule`, `FormGroup`, `FormControl` y `Validators`.
+- Integración de los 7 campos requeridos con validación en tiempo real.
+- Feedback al usuario con mensajes de error dinámicos (`@if`, `touched`, `invalid`).
+- Manejo de envío con `markAllAsTouched()`, `console.log()` y `reset()`.
