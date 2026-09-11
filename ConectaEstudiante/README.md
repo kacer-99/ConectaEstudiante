@@ -59,3 +59,7 @@ Si un campo es obligatorio y el usuario lo deja vacío o mal escrito, se muestra
 ### Etapa 4: Estilos y Entrega
 - Aplicación de estilos CSS generales en `styles.css`.
 - Compilación del proyecto con `ng build` y subida final a GitHub.
+
+##percances y tomas de decisiones
+-decidí organizar los componentes dividiéndolos en dos secciones components: cabecera,menu y pages: actividades, contacto, inicio. inscripcion. Para que tuviera una mejor organización de los archivos.
+-presenté problemas con algunos import, aparte el computador del instituto no me respondia correctamente, es por ello que me atrase en la entrega pero dentro del plazo que usted establecio posteriormente.
