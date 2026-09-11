@@ -5,6 +5,10 @@
 ## Descripción del Proyecto
 Aplicación SPA desarrollada en Angular para la organización "Conecta Estudiante". Permite revisar actividades y talleres académicos, consultar datos de contacto y registrar solicitudes de inscripción mediante un formulario reactivo con validaciones.
 
+## Requisitos
+- Angular CLI: 22.x
+- Node.js: v18+
+
 ## Instrucciones de Ejecución
 1. Clonar el repositorio: `git clone <URL_REPOSITORIO>`
 2. Instalar dependencias: `npm install`
