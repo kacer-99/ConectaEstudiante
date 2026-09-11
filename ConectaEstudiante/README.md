@@ -20,3 +20,8 @@ Aplicación SPA desarrollada en Angular 22 para la organización "Conecta Estudi
 - Creación del proyecto Angular Standalone con routing habilitado.
 - Generación de componentes base: Cabecera y Menu en `components/`.
 - Generación de componentes de vista: Inicio, Actividades, Contacto e Inscripcion en `pages/`.
+
+### Etapa 2: Navegación SPA y Rutas
+- Configuración de `app.routes.ts` para navegación dinámica.
+- Uso de `routerLink`, `routerLinkActive` y `<router-outlet>`.
+- Creación de vistas `Inicio`, `Actividades` (con interpolación y `@for`), y `Contacto`.
